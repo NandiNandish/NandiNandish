@@ -74,7 +74,7 @@ Responsive website to showcase projects and skills.
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NandiNandish&theme=tokyo-night"/>
 </p>
 
 ---
@@ -93,11 +93,11 @@ Responsive website to showcase projects and skills.
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/e-b-nandeesha-36435831b">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/NandiNandish">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
@@ -107,10 +107,6 @@ Responsive website to showcase projects and skills.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nandeesha&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 
 ---
 
