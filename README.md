@@ -74,7 +74,7 @@ Responsive website to showcase projects and skills.
 
 <div align="center">
 <h2 style="color:#00ff00;">🐍 Matrix Contribution Snake</h2>
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" width="100%">
+<img src="https://github.com/NandiNandish/NandiNandish/blob/output/github-contribution-grid-snake.svg" width="100%">
 </div>
 
 ---
