@@ -4,6 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&color=00FF00&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Web+Developer;Machine+Learning+Explorer;Building+Future+With+Code" />
 </p>
 
+
 ---
 
 # 🧑‍💻 Developer Portfolio
@@ -89,6 +90,10 @@ Responsive website to showcase projects and skills.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=NandiNandish&label=Profile%20Views&color=blue&style=for-the-badge"/>
+</p>
 
 ---
 
