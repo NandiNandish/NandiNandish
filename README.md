@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nandeesha</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=CSE+Student;Web+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&color=00FF00&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Web+Developer;Machine+Learning+Explorer;Building+Future+With+Code" />
 </p>
 
 ---
@@ -12,6 +12,10 @@
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 </p>
 
+---
+
+
+# 🌌 Welcome to My Developer Universe
 ---
 
 ## 🚀 About Me
@@ -46,7 +50,7 @@ Responsive website to showcase projects and skills.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=NandiNandish&theme=tokyonight&row=1&column=6"/>
 </p>
 
 ---
@@ -54,7 +58,7 @@ Responsive website to showcase projects and skills.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NandiNandisha&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
@@ -62,7 +66,7 @@ Responsive website to showcase projects and skills.
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=NandiNandish&theme=tokyonight"/>
 </p>
 
 ---
@@ -76,6 +80,8 @@ Responsive website to showcase projects and skills.
 ---
 
 ## 🐍 Contribution Snake
+
+<br clear="both">
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
@@ -99,6 +105,26 @@ Responsive website to showcase projects and skills.
 
 ---
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Nandeesha&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+---
+
 <p align="center">
 ⭐ “Code • Learn • Build • Repeat”
 </p>
+
+
+```ascii
+███╗   ██╗ █████╗ ███╗   ██╗██████╗ ███████╗███████╗███████╗██╗  ██╗ █████╗
+████╗  ██║██╔══██╗████╗  ██║██╔══██╗██╔════╝██╔════╝██╔════╝██║  ██║██╔══██╗
+██╔██╗ ██║███████║██╔██╗ ██║██║  ██║█████╗  ███████╗█████╗  ███████║███████║
+██║╚██╗██║██╔══██║██║╚██╗██║██║  ██║██╔══╝  ╚════██║██╔══╝  ██╔══██║██╔══██║
+██║ ╚████║██║  ██║██║ ╚████║██████╔╝███████╗███████║███████╗██║  ██║██║  ██║
+╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
+
+
