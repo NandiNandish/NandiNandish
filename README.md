@@ -47,14 +47,6 @@ Responsive website to showcase projects and skills.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=NandiNandish&theme=tokyonight&row=1&column=6"/>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -76,12 +68,6 @@ Responsive website to showcase projects and skills.
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NandiNandish&theme=tokyo-night"/>
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-![Matrix Snake](https://github.com/NandiNandish/NandiNandish/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
