@@ -81,11 +81,7 @@ Responsive website to showcase projects and skills.
 
 ## 🐍 Contribution Snake
 
-<br clear="both">
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-</p>
+![Matrix Snake](https://github.com/NandiNandish/NandiNandish/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
